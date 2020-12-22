@@ -1,0 +1,21 @@
+
+.App {
+  min-height: 100vh;
+  min-width: 100vw;  
+  background-color:aliceblue;
+}
+.app-content {
+  padding-top:5vh;
+  display:flex;
+  justify-content:center;
+}
+.loader {
+  align-self:center;
+}
+
+.login{
+  padding-top: 10vh;
+}
+.nav {
+  background-color: steelblue;
+}
